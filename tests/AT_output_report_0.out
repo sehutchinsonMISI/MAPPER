@@ -1,0 +1,866 @@
+    col: 7 val: 37 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 37 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 9755a6f2bf1be9e23c8cd463e022234a col: 3 value: 49189 is > the dmin (of 13226) 
+    ID: 9755a6f2bf1be9e23c8cd463e022234a col: 3 value: 49189 is < the dmax (of 64754) 
+    col: 8 val: 18786 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 9755a6f2bf1be9e23c8cd463e022234a col: 1 value: 3232266503 is < the max (of bin_2) 
+    ID: 9755a6f2bf1be9e23c8cd463e022234a col: 1 value: 3232266503 is < the mean (of bin_2) 
+    ID: 9755a6f2bf1be9e23c8cd463e022234a col: 3 value: 49189 is > the value (49175) 
+    ID: 9755a6f2bf1be9e23c8cd463e022234a col: 13 value: 1555966971.07521 is > the epochtime (of 1555966971) 
+    ID: 9755a6f2bf1be9e23c8cd463e022234a col: 13 value: 1555966971.07521 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 9e57d9e7e404c842a59b9a4023a22695 col: 3 value: 59163 is > the dmin (of 13226) 
+    ID: 9e57d9e7e404c842a59b9a4023a22695 col: 3 value: 59163 is < the dmax (of 64754) 
+    col: 8 val: 176 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 9e57d9e7e404c842a59b9a4023a22695 col: 1 value: 3232266503 is < the max (of bin_2) 
+    ID: 9e57d9e7e404c842a59b9a4023a22695 col: 1 value: 3232266503 is < the mean (of bin_2) 
+    ID: 9e57d9e7e404c842a59b9a4023a22695 col: 3 value: 59163 is > the value (49175) 
+    ID: 9e57d9e7e404c842a59b9a4023a22695 col: 13 value: 1555966955.59163 is < the year2030 (of 2030) 
+    col: 7 val: 5 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 5 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: fdf3e74fb35c9898545a81e5600700c0 col: 3 value: 58545 is > the dmin (of 13226) 
+    ID: fdf3e74fb35c9898545a81e5600700c0 col: 3 value: 58545 is < the dmax (of 64754) 
+    col: 8 val: 5600 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: fdf3e74fb35c9898545a81e5600700c0 col: 1 value: 3232266503 is < the max (of bin_2) 
+    ID: fdf3e74fb35c9898545a81e5600700c0 col: 1 value: 3232266503 is < the mean (of bin_2) 
+    ID: fdf3e74fb35c9898545a81e5600700c0 col: 3 value: 58545 is > the value (49175) 
+    ID: fdf3e74fb35c9898545a81e5600700c0 col: 13 value: 1555966971.07487 is > the epochtime (of 1555966971) 
+    ID: fdf3e74fb35c9898545a81e5600700c0 col: 13 value: 1555966971.07487 is < the year2030 (of 2030) 
+    col: 7 val: 948 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 948 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: fe4a7fcff82c51cf9b35397af41f6df6 col: 3 value: 49175 is > the dmin (of 13226) 
+    ID: fe4a7fcff82c51cf9b35397af41f6df6 col: 3 value: 49175 is < the dmax (of 64754) 
+    col: 8 val: 905796 is in bin 1 between (65536 and 16777216) with 0.100 of the values. 
+    ID: fe4a7fcff82c51cf9b35397af41f6df6 col: 1 value: 3232266510 is < the max (of bin_2) 
+    ID: fe4a7fcff82c51cf9b35397af41f6df6 col: 1 value: 3232266510 is < the mean (of bin_2) 
+    ID: fe4a7fcff82c51cf9b35397af41f6df6 col: 3 value: 49175 is = the value (49175) 
+    ID: fe4a7fcff82c51cf9b35397af41f6df6 col: 13 value: 1555966977.91291 is > the epochtime (of 1555966971) 
+    ID: fe4a7fcff82c51cf9b35397af41f6df6 col: 13 value: 1555966977.91291 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: caabfeaba4470852dfcfd98100fb831c col: 3 value: 55159 is > the dmin (of 13226) 
+    ID: caabfeaba4470852dfcfd98100fb831c col: 3 value: 55159 is < the dmax (of 64754) 
+    col: 8 val: 176 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: caabfeaba4470852dfcfd98100fb831c col: 1 value: 3232266510 is < the max (of bin_2) 
+    ID: caabfeaba4470852dfcfd98100fb831c col: 1 value: 3232266510 is < the mean (of bin_2) 
+    ID: caabfeaba4470852dfcfd98100fb831c col: 3 value: 55159 is > the value (49175) 
+    ID: caabfeaba4470852dfcfd98100fb831c col: 13 value: 1555966977.90388 is > the epochtime (of 1555966971) 
+    ID: caabfeaba4470852dfcfd98100fb831c col: 13 value: 1555966977.90388 is < the year2030 (of 2030) 
+    col: 7 val: 16 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 16 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: dd0416da066d10b493388e5e5f793a4e col: 3 value: 52697 is > the dmin (of 13226) 
+    ID: dd0416da066d10b493388e5e5f793a4e col: 3 value: 52697 is < the dmax (of 64754) 
+    col: 8 val: 6574 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: dd0416da066d10b493388e5e5f793a4e col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: dd0416da066d10b493388e5e5f793a4e col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: dd0416da066d10b493388e5e5f793a4e col: 3 value: 52697 is > the value (49175) 
+    ID: dd0416da066d10b493388e5e5f793a4e col: 13 value: 1555966626.33594 is < the year2030 (of 2030) 
+    col: 7 val: 1891 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 1891 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 59d82e5c77bd5d50792f413b3a0ebf77 col: 3 value: 52698 is > the dmin (of 13226) 
+    ID: 59d82e5c77bd5d50792f413b3a0ebf77 col: 3 value: 52698 is < the dmax (of 64754) 
+    col: 8 val: 4940147 is in bin 1 between (65536 and 16777216) with 0.100 of the values. 
+    ID: 59d82e5c77bd5d50792f413b3a0ebf77 col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: 59d82e5c77bd5d50792f413b3a0ebf77 col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: 59d82e5c77bd5d50792f413b3a0ebf77 col: 3 value: 52698 is > the value (49175) 
+    ID: 59d82e5c77bd5d50792f413b3a0ebf77 col: 13 value: 1555966626.54229 is < the year2030 (of 2030) 
+    col: 7 val: 39 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 39 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: a48adf5131a20446a54a382449b83805 col: 3 value: 52689 is > the dmin (of 13226) 
+    ID: a48adf5131a20446a54a382449b83805 col: 3 value: 52689 is < the dmax (of 64754) 
+    col: 8 val: 8640 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: a48adf5131a20446a54a382449b83805 col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: a48adf5131a20446a54a382449b83805 col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: a48adf5131a20446a54a382449b83805 col: 3 value: 52689 is > the value (49175) 
+    ID: a48adf5131a20446a54a382449b83805 col: 13 value: 1555966625.95689 is < the year2030 (of 2030) 
+    col: 7 val: 42 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 42 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: a6f9c53db1cbe147caf11963077ede0c col: 3 value: 52694 is > the dmin (of 13226) 
+    ID: a6f9c53db1cbe147caf11963077ede0c col: 3 value: 52694 is < the dmax (of 64754) 
+    col: 8 val: 11217 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: a6f9c53db1cbe147caf11963077ede0c col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: a6f9c53db1cbe147caf11963077ede0c col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: a6f9c53db1cbe147caf11963077ede0c col: 3 value: 52694 is > the value (49175) 
+    ID: a6f9c53db1cbe147caf11963077ede0c col: 13 value: 1555966626.12872 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 6e0c75182ec94b640563564c75f8bad0 col: 3 value: 52240 is > the dmin (of 13226) 
+    ID: 6e0c75182ec94b640563564c75f8bad0 col: 3 value: 52240 is < the dmax (of 64754) 
+    col: 8 val: 332 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 6e0c75182ec94b640563564c75f8bad0 col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: 6e0c75182ec94b640563564c75f8bad0 col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: 6e0c75182ec94b640563564c75f8bad0 col: 3 value: 52240 is > the value (49175) 
+    ID: 6e0c75182ec94b640563564c75f8bad0 col: 13 value: 1555966625.95517 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 70837346012ce08130242b42b4da4a59 col: 3 value: 62526 is > the dmin (of 13226) 
+    ID: 70837346012ce08130242b42b4da4a59 col: 3 value: 62526 is < the dmax (of 64754) 
+    col: 8 val: 179 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 70837346012ce08130242b42b4da4a59 col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: 70837346012ce08130242b42b4da4a59 col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: 70837346012ce08130242b42b4da4a59 col: 3 value: 62526 is > the value (49175) 
+    ID: 70837346012ce08130242b42b4da4a59 col: 13 value: 1555966626.1265 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 5cc4294d7fd97a9f991d07dfaf75e9f8 col: 3 value: 54100 is > the dmin (of 13226) 
+    ID: 5cc4294d7fd97a9f991d07dfaf75e9f8 col: 3 value: 54100 is < the dmax (of 64754) 
+    col: 8 val: 219 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 5cc4294d7fd97a9f991d07dfaf75e9f8 col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: 5cc4294d7fd97a9f991d07dfaf75e9f8 col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: 5cc4294d7fd97a9f991d07dfaf75e9f8 col: 3 value: 54100 is > the value (49175) 
+    ID: 5cc4294d7fd97a9f991d07dfaf75e9f8 col: 13 value: 1555966626.33191 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: aeb8f4afd4d0ae4135e11123b68d0b1c col: 3 value: 61031 is > the dmin (of 13226) 
+    ID: aeb8f4afd4d0ae4135e11123b68d0b1c col: 3 value: 61031 is < the dmax (of 64754) 
+    col: 8 val: 201 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: aeb8f4afd4d0ae4135e11123b68d0b1c col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: aeb8f4afd4d0ae4135e11123b68d0b1c col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: aeb8f4afd4d0ae4135e11123b68d0b1c col: 3 value: 61031 is > the value (49175) 
+    ID: aeb8f4afd4d0ae4135e11123b68d0b1c col: 13 value: 1555966626.54041 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: ce595646e3aa1f5954a66eb80442d9d8 col: 3 value: 56130 is > the dmin (of 13226) 
+    ID: ce595646e3aa1f5954a66eb80442d9d8 col: 3 value: 56130 is < the dmax (of 64754) 
+    col: 8 val: 281 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: ce595646e3aa1f5954a66eb80442d9d8 col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: ce595646e3aa1f5954a66eb80442d9d8 col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: ce595646e3aa1f5954a66eb80442d9d8 col: 3 value: 56130 is > the value (49175) 
+    ID: ce595646e3aa1f5954a66eb80442d9d8 col: 13 value: 1555966627.66846 is < the year2030 (of 2030) 
+    col: 7 val: 6 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 6 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 3cadd9072231d8fbcc97ae8f15249776 col: 3 value: 56131 is > the dmin (of 13226) 
+    ID: 3cadd9072231d8fbcc97ae8f15249776 col: 3 value: 56131 is < the dmax (of 64754) 
+    col: 8 val: 6978 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 3cadd9072231d8fbcc97ae8f15249776 col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: 3cadd9072231d8fbcc97ae8f15249776 col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: 3cadd9072231d8fbcc97ae8f15249776 col: 3 value: 56131 is > the value (49175) 
+    ID: 3cadd9072231d8fbcc97ae8f15249776 col: 13 value: 1555966627.67099 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: a000c0cabba723079429b8c86ee720ff col: 3 value: 49270 is > the dmin (of 13226) 
+    ID: a000c0cabba723079429b8c86ee720ff col: 3 value: 49270 is < the dmax (of 64754) 
+    col: 8 val: 130 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: a000c0cabba723079429b8c86ee720ff col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: a000c0cabba723079429b8c86ee720ff col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: a000c0cabba723079429b8c86ee720ff col: 3 value: 49270 is > the value (49175) 
+    ID: a000c0cabba723079429b8c86ee720ff col: 13 value: 1555967147.62981 is > the epochtime (of 1555966971) 
+    ID: a000c0cabba723079429b8c86ee720ff col: 13 value: 1555967147.62981 is < the year2030 (of 2030) 
+    col: 7 val: 817 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 817 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: feafc94d59d2e3c9b5e526f7c577a34a col: 3 value: 53089 is > the dmin (of 13226) 
+    ID: feafc94d59d2e3c9b5e526f7c577a34a col: 3 value: 53089 is < the dmax (of 64754) 
+    col: 8 val: 1363117 is in bin 1 between (65536 and 16777216) with 0.100 of the values. 
+    ID: feafc94d59d2e3c9b5e526f7c577a34a col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: feafc94d59d2e3c9b5e526f7c577a34a col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: feafc94d59d2e3c9b5e526f7c577a34a col: 3 value: 53089 is > the value (49175) 
+    ID: feafc94d59d2e3c9b5e526f7c577a34a col: 13 value: 1555967246.911 is > the epochtime (of 1555966971) 
+    ID: feafc94d59d2e3c9b5e526f7c577a34a col: 13 value: 1555967246.911 is < the year2030 (of 2030) 
+    col: 7 val: 35 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 35 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: f3d335bda6f36b52ef0672ff0f51eb21 col: 3 value: 53090 is > the dmin (of 13226) 
+    ID: f3d335bda6f36b52ef0672ff0f51eb21 col: 3 value: 53090 is < the dmax (of 64754) 
+    col: 8 val: 6764 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: f3d335bda6f36b52ef0672ff0f51eb21 col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: f3d335bda6f36b52ef0672ff0f51eb21 col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: f3d335bda6f36b52ef0672ff0f51eb21 col: 3 value: 53090 is > the value (49175) 
+    ID: f3d335bda6f36b52ef0672ff0f51eb21 col: 13 value: 1555967246.97075 is > the epochtime (of 1555966971) 
+    ID: f3d335bda6f36b52ef0672ff0f51eb21 col: 13 value: 1555967246.97075 is < the year2030 (of 2030) 
+    col: 7 val: 47 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 47 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: d310a53cf40c3047658acf63908e90b0 col: 3 value: 53484 is > the dmin (of 13226) 
+    ID: d310a53cf40c3047658acf63908e90b0 col: 3 value: 53484 is < the dmax (of 64754) 
+    col: 8 val: 21655 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: d310a53cf40c3047658acf63908e90b0 col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: d310a53cf40c3047658acf63908e90b0 col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: d310a53cf40c3047658acf63908e90b0 col: 3 value: 53484 is > the value (49175) 
+    ID: d310a53cf40c3047658acf63908e90b0 col: 13 value: 1555968416.4551 is > the epochtime (of 1555966971) 
+    ID: d310a53cf40c3047658acf63908e90b0 col: 13 value: 1555968416.4551 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: d4ba2ca08b854432bb421c0948695e04 col: 3 value: 56034 is > the dmin (of 13226) 
+    ID: d4ba2ca08b854432bb421c0948695e04 col: 3 value: 56034 is < the dmax (of 64754) 
+    col: 8 val: 268 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: d4ba2ca08b854432bb421c0948695e04 col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: d4ba2ca08b854432bb421c0948695e04 col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: d4ba2ca08b854432bb421c0948695e04 col: 3 value: 56034 is > the value (49175) 
+    ID: d4ba2ca08b854432bb421c0948695e04 col: 13 value: 1555967246.71536 is > the epochtime (of 1555966971) 
+    ID: d4ba2ca08b854432bb421c0948695e04 col: 13 value: 1555967246.71536 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: b3851f5b877389ff707322550eafaaac col: 3 value: 61509 is > the dmin (of 13226) 
+    ID: b3851f5b877389ff707322550eafaaac col: 3 value: 61509 is < the dmax (of 64754) 
+    col: 8 val: 219 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: b3851f5b877389ff707322550eafaaac col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: b3851f5b877389ff707322550eafaaac col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: b3851f5b877389ff707322550eafaaac col: 3 value: 61509 is > the value (49175) 
+    ID: b3851f5b877389ff707322550eafaaac col: 13 value: 1555967246.90787 is > the epochtime (of 1555966971) 
+    ID: b3851f5b877389ff707322550eafaaac col: 13 value: 1555967246.90787 is < the year2030 (of 2030) 
+    col: 7 val: 1 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 1 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: b05e682cdfdfb5cc7e8a1c8352464395 col: 3 value: 58441 is > the dmin (of 13226) 
+    ID: b05e682cdfdfb5cc7e8a1c8352464395 col: 3 value: 58441 is < the dmax (of 64754) 
+    col: 8 val: 59 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: b05e682cdfdfb5cc7e8a1c8352464395 col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: b05e682cdfdfb5cc7e8a1c8352464395 col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: b05e682cdfdfb5cc7e8a1c8352464395 col: 3 value: 58441 is > the value (49175) 
+    ID: b05e682cdfdfb5cc7e8a1c8352464395 col: 13 value: 1555967246.96975 is > the epochtime (of 1555966971) 
+    ID: b05e682cdfdfb5cc7e8a1c8352464395 col: 13 value: 1555967246.96975 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 69566160be7bd9c57bcf424973e7e189 col: 3 value: 64259 is > the dmin (of 13226) 
+    ID: 69566160be7bd9c57bcf424973e7e189 col: 3 value: 64259 is < the dmax (of 64754) 
+    col: 8 val: 345 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 69566160be7bd9c57bcf424973e7e189 col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: 69566160be7bd9c57bcf424973e7e189 col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: 69566160be7bd9c57bcf424973e7e189 col: 3 value: 64259 is > the value (49175) 
+    ID: 69566160be7bd9c57bcf424973e7e189 col: 13 value: 1555967247.43703 is > the epochtime (of 1555966971) 
+    ID: 69566160be7bd9c57bcf424973e7e189 col: 13 value: 1555967247.43703 is < the year2030 (of 2030) 
+    col: 7 val: 5 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 5 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 6b1225feb000a11819b54dfb4166dd64 col: 3 value: 61510 is > the dmin (of 13226) 
+    ID: 6b1225feb000a11819b54dfb4166dd64 col: 3 value: 61510 is < the dmax (of 64754) 
+    col: 8 val: 5600 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 6b1225feb000a11819b54dfb4166dd64 col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: 6b1225feb000a11819b54dfb4166dd64 col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: 6b1225feb000a11819b54dfb4166dd64 col: 3 value: 61510 is > the value (49175) 
+    ID: 6b1225feb000a11819b54dfb4166dd64 col: 13 value: 1555967246.9107 is > the epochtime (of 1555966971) 
+    ID: 6b1225feb000a11819b54dfb4166dd64 col: 13 value: 1555967246.9107 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 6a521034c78458268517fe83fc2663ff col: 3 value: 54805 is > the dmin (of 13226) 
+    ID: 6a521034c78458268517fe83fc2663ff col: 3 value: 54805 is < the dmax (of 64754) 
+    col: 8 val: 130 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 6a521034c78458268517fe83fc2663ff col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: 6a521034c78458268517fe83fc2663ff col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: 6a521034c78458268517fe83fc2663ff col: 3 value: 54805 is > the value (49175) 
+    ID: 6a521034c78458268517fe83fc2663ff col: 13 value: 1555967491.02587 is > the epochtime (of 1555966971) 
+    ID: 6a521034c78458268517fe83fc2663ff col: 13 value: 1555967491.02587 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: cdc3298b0e5bffaf8db7941318ce640e col: 3 value: 60788 is > the dmin (of 13226) 
+    ID: cdc3298b0e5bffaf8db7941318ce640e col: 3 value: 60788 is < the dmax (of 64754) 
+    col: 8 val: 176 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: cdc3298b0e5bffaf8db7941318ce640e col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: cdc3298b0e5bffaf8db7941318ce640e col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: cdc3298b0e5bffaf8db7941318ce640e col: 3 value: 60788 is > the value (49175) 
+    ID: cdc3298b0e5bffaf8db7941318ce640e col: 13 value: 1555968416.4532 is > the epochtime (of 1555966971) 
+    ID: cdc3298b0e5bffaf8db7941318ce640e col: 13 value: 1555968416.4532 is < the year2030 (of 2030) 
+    col: 7 val: 6 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 6 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 3bc8d6289b65450e72c170200fc1d46b col: 3 value: 61114 is > the dmin (of 13226) 
+    ID: 3bc8d6289b65450e72c170200fc1d46b col: 3 value: 61114 is < the dmax (of 64754) 
+    col: 8 val: 6978 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 3bc8d6289b65450e72c170200fc1d46b col: 1 value: 3232266523 is < the max (of bin_2) 
+    ID: 3bc8d6289b65450e72c170200fc1d46b col: 1 value: 3232266523 is < the mean (of bin_2) 
+    ID: 3bc8d6289b65450e72c170200fc1d46b col: 3 value: 61114 is > the value (49175) 
+    ID: 3bc8d6289b65450e72c170200fc1d46b col: 13 value: 1555968417.80626 is > the epochtime (of 1555966971) 
+    ID: 3bc8d6289b65450e72c170200fc1d46b col: 13 value: 1555968417.80626 is < the year2030 (of 2030) 
+    col: 7 val: 61 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 61 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: fabd3b449b0f5535c8d027ea3b7c1d8c col: 3 value: 59088 is > the dmin (of 13226) 
+    ID: fabd3b449b0f5535c8d027ea3b7c1d8c col: 3 value: 59088 is < the dmax (of 64754) 
+    col: 8 val: 23295 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: fabd3b449b0f5535c8d027ea3b7c1d8c col: 1 value: 3232266525 is < the max (of bin_2) 
+    ID: fabd3b449b0f5535c8d027ea3b7c1d8c col: 1 value: 3232266525 is < the mean (of bin_2) 
+    ID: fabd3b449b0f5535c8d027ea3b7c1d8c col: 3 value: 59088 is > the value (49175) 
+    ID: fabd3b449b0f5535c8d027ea3b7c1d8c col: 13 value: 1555964819.7069 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 25cebc3cea083df77ac20d23b550280e col: 3 value: 56890 is > the dmin (of 13226) 
+    ID: 25cebc3cea083df77ac20d23b550280e col: 3 value: 56890 is < the dmax (of 64754) 
+    col: 8 val: 315 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 25cebc3cea083df77ac20d23b550280e col: 1 value: 3232266525 is < the max (of bin_2) 
+    ID: 25cebc3cea083df77ac20d23b550280e col: 1 value: 3232266525 is < the mean (of bin_2) 
+    ID: 25cebc3cea083df77ac20d23b550280e col: 3 value: 56890 is > the value (49175) 
+    ID: 25cebc3cea083df77ac20d23b550280e col: 13 value: 1555964819.70519 is < the year2030 (of 2030) 
+    col: 7 val: 962 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 962 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 402db7a4b2fa98925560813f8b48b52e col: 3 value: 59402 is > the dmin (of 13226) 
+    ID: 402db7a4b2fa98925560813f8b48b52e col: 3 value: 59402 is < the dmax (of 64754) 
+    col: 8 val: 937107 is in bin 1 between (65536 and 16777216) with 0.100 of the values. 
+    ID: 402db7a4b2fa98925560813f8b48b52e col: 1 value: 3232266525 is < the max (of bin_2) 
+    ID: 402db7a4b2fa98925560813f8b48b52e col: 1 value: 3232266525 is < the mean (of bin_2) 
+    ID: 402db7a4b2fa98925560813f8b48b52e col: 3 value: 59402 is > the value (49175) 
+    ID: 402db7a4b2fa98925560813f8b48b52e col: 13 value: 1555966292.08865 is < the year2030 (of 2030) 
+    col: 7 val: 39 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 39 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: f7399ee12f16c8c94006b2354d370d9b col: 3 value: 59415 is > the dmin (of 13226) 
+    ID: f7399ee12f16c8c94006b2354d370d9b col: 3 value: 59415 is < the dmax (of 64754) 
+    col: 8 val: 12418 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: f7399ee12f16c8c94006b2354d370d9b col: 1 value: 3232266525 is < the max (of bin_2) 
+    ID: f7399ee12f16c8c94006b2354d370d9b col: 1 value: 3232266525 is < the mean (of bin_2) 
+    ID: f7399ee12f16c8c94006b2354d370d9b col: 3 value: 59415 is > the value (49175) 
+    ID: f7399ee12f16c8c94006b2354d370d9b col: 13 value: 1555966296.49486 is < the year2030 (of 2030) 
+    col: 7 val: 195 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 195 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 83309023bde1fdc69ae3349d8bf27a0f col: 3 value: 59416 is > the dmin (of 13226) 
+    ID: 83309023bde1fdc69ae3349d8bf27a0f col: 3 value: 59416 is < the dmax (of 64754) 
+    col: 8 val: 128936 is in bin 1 between (65536 and 16777216) with 0.100 of the values. 
+    ID: 83309023bde1fdc69ae3349d8bf27a0f col: 1 value: 3232266525 is < the max (of bin_2) 
+    ID: 83309023bde1fdc69ae3349d8bf27a0f col: 1 value: 3232266525 is < the mean (of bin_2) 
+    ID: 83309023bde1fdc69ae3349d8bf27a0f col: 3 value: 59416 is > the value (49175) 
+    ID: 83309023bde1fdc69ae3349d8bf27a0f col: 13 value: 1555966296.49598 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: e5921c4f89429b4c7fa5422446fd6c62 col: 3 value: 64723 is > the dmin (of 13226) 
+    ID: e5921c4f89429b4c7fa5422446fd6c62 col: 3 value: 64723 is < the dmax (of 64754) 
+    col: 8 val: 300 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: e5921c4f89429b4c7fa5422446fd6c62 col: 1 value: 3232266525 is < the max (of bin_2) 
+    ID: e5921c4f89429b4c7fa5422446fd6c62 col: 1 value: 3232266525 is < the mean (of bin_2) 
+    ID: e5921c4f89429b4c7fa5422446fd6c62 col: 3 value: 64723 is > the value (49175) 
+    ID: e5921c4f89429b4c7fa5422446fd6c62 col: 13 value: 1555966292.08638 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: f15479a5d1998eb76eded36621e23e09 col: 3 value: 50673 is > the dmin (of 13226) 
+    ID: f15479a5d1998eb76eded36621e23e09 col: 3 value: 50673 is < the dmax (of 64754) 
+    col: 8 val: 179 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: f15479a5d1998eb76eded36621e23e09 col: 1 value: 3232266525 is < the max (of bin_2) 
+    ID: f15479a5d1998eb76eded36621e23e09 col: 1 value: 3232266525 is < the mean (of bin_2) 
+    ID: f15479a5d1998eb76eded36621e23e09 col: 3 value: 50673 is > the value (49175) 
+    ID: f15479a5d1998eb76eded36621e23e09 col: 13 value: 1555966296.49136 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 280441b28d186ecb0fee0ed77726897e col: 3 value: 52691 is > the dmin (of 13226) 
+    ID: 280441b28d186ecb0fee0ed77726897e col: 3 value: 52691 is < the dmax (of 64754) 
+    col: 8 val: 315 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 280441b28d186ecb0fee0ed77726897e col: 1 value: 3232266525 is < the max (of bin_2) 
+    ID: 280441b28d186ecb0fee0ed77726897e col: 1 value: 3232266525 is < the mean (of bin_2) 
+    ID: 280441b28d186ecb0fee0ed77726897e col: 3 value: 52691 is > the value (49175) 
+    ID: 280441b28d186ecb0fee0ed77726897e col: 13 value: 1555966296.49411 is < the year2030 (of 2030) 
+    col: 7 val: 4 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 4 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 483f7e2d7ebdbf95e6a9ed1d669d6038 col: 3 value: 64088 is > the dmin (of 13226) 
+    ID: 483f7e2d7ebdbf95e6a9ed1d669d6038 col: 3 value: 64088 is < the dmax (of 64754) 
+    col: 8 val: 4222 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 483f7e2d7ebdbf95e6a9ed1d669d6038 col: 1 value: 3232266525 is < the max (of bin_2) 
+    ID: 483f7e2d7ebdbf95e6a9ed1d669d6038 col: 1 value: 3232266525 is < the mean (of bin_2) 
+    ID: 483f7e2d7ebdbf95e6a9ed1d669d6038 col: 3 value: 64088 is > the value (49175) 
+    ID: 483f7e2d7ebdbf95e6a9ed1d669d6038 col: 13 value: 1555966293.70154 is < the year2030 (of 2030) 
+    col: 7 val: 6 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 6 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: c25b7b1f13aa9a8e0ad55c2df5d3ddec col: 3 value: 50674 is > the dmin (of 13226) 
+    ID: c25b7b1f13aa9a8e0ad55c2df5d3ddec col: 3 value: 50674 is < the dmax (of 64754) 
+    col: 8 val: 6978 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: c25b7b1f13aa9a8e0ad55c2df5d3ddec col: 1 value: 3232266525 is < the max (of bin_2) 
+    ID: c25b7b1f13aa9a8e0ad55c2df5d3ddec col: 1 value: 3232266525 is < the mean (of bin_2) 
+    ID: c25b7b1f13aa9a8e0ad55c2df5d3ddec col: 3 value: 50674 is > the value (49175) 
+    ID: c25b7b1f13aa9a8e0ad55c2df5d3ddec col: 13 value: 1555966296.4944 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: d32b79f33b1cf4588ed51521b2dc6bde col: 3 value: 62858 is > the dmin (of 13226) 
+    ID: d32b79f33b1cf4588ed51521b2dc6bde col: 3 value: 62858 is < the dmax (of 64754) 
+    col: 8 val: 176 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: d32b79f33b1cf4588ed51521b2dc6bde col: 1 value: 3232266525 is < the max (of bin_2) 
+    ID: d32b79f33b1cf4588ed51521b2dc6bde col: 1 value: 3232266525 is < the mean (of bin_2) 
+    ID: d32b79f33b1cf4588ed51521b2dc6bde col: 3 value: 62858 is > the value (49175) 
+    ID: d32b79f33b1cf4588ed51521b2dc6bde col: 13 value: 1555966682.89599 is < the year2030 (of 2030) 
+    col: 7 val: 5 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 5 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: de50a83f05ac6eff91cec330ea3d1c3a col: 3 value: 54197 is > the dmin (of 13226) 
+    ID: de50a83f05ac6eff91cec330ea3d1c3a col: 3 value: 54197 is < the dmax (of 64754) 
+    col: 8 val: 5582 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: de50a83f05ac6eff91cec330ea3d1c3a col: 1 value: 3232266525 is < the max (of bin_2) 
+    ID: de50a83f05ac6eff91cec330ea3d1c3a col: 1 value: 3232266525 is < the mean (of bin_2) 
+    ID: de50a83f05ac6eff91cec330ea3d1c3a col: 3 value: 54197 is > the value (49175) 
+    ID: de50a83f05ac6eff91cec330ea3d1c3a col: 13 value: 1555966686.21707 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 242e8d2be15601d009d436cb8ecc2f78 col: 3 value: 50994 is > the dmin (of 13226) 
+    ID: 242e8d2be15601d009d436cb8ecc2f78 col: 3 value: 50994 is < the dmax (of 64754) 
+    col: 8 val: 176 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 242e8d2be15601d009d436cb8ecc2f78 col: 1 value: 3232266525 is < the max (of bin_2) 
+    ID: 242e8d2be15601d009d436cb8ecc2f78 col: 1 value: 3232266525 is < the mean (of bin_2) 
+    ID: 242e8d2be15601d009d436cb8ecc2f78 col: 3 value: 50994 is > the value (49175) 
+    ID: 242e8d2be15601d009d436cb8ecc2f78 col: 13 value: 1555966752.43865 is < the year2030 (of 2030) 
+    col: 7 val: 4 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 4 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 741531d23d13af118f3261fd22a39734 col: 3 value: 50995 is > the dmin (of 13226) 
+    ID: 741531d23d13af118f3261fd22a39734 col: 3 value: 50995 is < the dmax (of 64754) 
+    col: 8 val: 4222 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 741531d23d13af118f3261fd22a39734 col: 1 value: 3232266525 is < the max (of bin_2) 
+    ID: 741531d23d13af118f3261fd22a39734 col: 1 value: 3232266525 is < the mean (of bin_2) 
+    ID: 741531d23d13af118f3261fd22a39734 col: 3 value: 50995 is > the value (49175) 
+    ID: 741531d23d13af118f3261fd22a39734 col: 13 value: 1555966752.44158 is < the year2030 (of 2030) 
+    col: 7 val: 159 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 159 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: f65de86c89ad422b884f58b79ecd7f32 col: 3 value: 59541 is > the dmin (of 13226) 
+    ID: f65de86c89ad422b884f58b79ecd7f32 col: 3 value: 59541 is < the dmax (of 64754) 
+    col: 8 val: 67908 is in bin 1 between (65536 and 16777216) with 0.100 of the values. 
+    ID: f65de86c89ad422b884f58b79ecd7f32 col: 1 value: 3232266525 is < the max (of bin_2) 
+    ID: f65de86c89ad422b884f58b79ecd7f32 col: 1 value: 3232266525 is < the mean (of bin_2) 
+    ID: f65de86c89ad422b884f58b79ecd7f32 col: 3 value: 59541 is > the value (49175) 
+    ID: f65de86c89ad422b884f58b79ecd7f32 col: 13 value: 1555966752.44195 is < the year2030 (of 2030) 
+    col: 7 val: 16 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 16 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 64862a61e43d9f689c5aa9cdecf81816 col: 3 value: 54350 is > the dmin (of 13226) 
+    ID: 64862a61e43d9f689c5aa9cdecf81816 col: 3 value: 54350 is < the dmax (of 64754) 
+    col: 8 val: 5281 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 64862a61e43d9f689c5aa9cdecf81816 col: 1 value: 3232266526 is < the max (of bin_2) 
+    ID: 64862a61e43d9f689c5aa9cdecf81816 col: 3 value: 54350 is > the value (49175) 
+    ID: 64862a61e43d9f689c5aa9cdecf81816 col: 13 value: 1555968706.12324 is > the epochtime (of 1555966971) 
+    ID: 64862a61e43d9f689c5aa9cdecf81816 col: 13 value: 1555968706.12324 is < the year2030 (of 2030) 
+    col: 7 val: 44 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 44 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 7e5fbe6c344b6157bb5b6a388b35b75b col: 3 value: 54414 is > the dmin (of 13226) 
+    ID: 7e5fbe6c344b6157bb5b6a388b35b75b col: 3 value: 54414 is < the dmax (of 64754) 
+    col: 8 val: 17152 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 7e5fbe6c344b6157bb5b6a388b35b75b col: 1 value: 3232266526 is < the max (of bin_2) 
+    ID: 7e5fbe6c344b6157bb5b6a388b35b75b col: 3 value: 54414 is > the value (49175) 
+    ID: 7e5fbe6c344b6157bb5b6a388b35b75b col: 13 value: 1555969027.22752 is > the epochtime (of 1555966971) 
+    ID: 7e5fbe6c344b6157bb5b6a388b35b75b col: 13 value: 1555969027.22752 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 34dac058b463a95bef8977671ba0010c col: 3 value: 56567 is > the dmin (of 13226) 
+    ID: 34dac058b463a95bef8977671ba0010c col: 3 value: 56567 is < the dmax (of 64754) 
+    col: 8 val: 176 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 34dac058b463a95bef8977671ba0010c col: 1 value: 3232266526 is < the max (of bin_2) 
+    ID: 34dac058b463a95bef8977671ba0010c col: 3 value: 56567 is > the value (49175) 
+    ID: 34dac058b463a95bef8977671ba0010c col: 13 value: 1555967338.0301 is > the epochtime (of 1555966971) 
+    ID: 34dac058b463a95bef8977671ba0010c col: 13 value: 1555967338.0301 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: db5faf01b5f7bc19089b298db2f6cc36 col: 3 value: 64754 is > the dmin (of 13226) 
+    col: 8 val: 176 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: db5faf01b5f7bc19089b298db2f6cc36 col: 1 value: 3232266526 is < the max (of bin_2) 
+    ID: db5faf01b5f7bc19089b298db2f6cc36 col: 3 value: 64754 is > the value (49175) 
+    ID: db5faf01b5f7bc19089b298db2f6cc36 col: 13 value: 1555969027.22572 is > the epochtime (of 1555966971) 
+    ID: db5faf01b5f7bc19089b298db2f6cc36 col: 13 value: 1555969027.22572 is < the year2030 (of 2030) 
+    col: 7 val: 43 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 43 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: b5f24bd77fd5cf247e247a043ed496e8 col: 3 value: 50265 is > the dmin (of 13226) 
+    ID: b5f24bd77fd5cf247e247a043ed496e8 col: 3 value: 50265 is < the dmax (of 64754) 
+    col: 8 val: 17135 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: b5f24bd77fd5cf247e247a043ed496e8 col: 1 value: 3232266526 is < the max (of bin_2) 
+    ID: b5f24bd77fd5cf247e247a043ed496e8 col: 3 value: 50265 is > the value (49175) 
+    ID: b5f24bd77fd5cf247e247a043ed496e8 col: 13 value: 1555973007.86229 is > the epochtime (of 1555966971) 
+    ID: b5f24bd77fd5cf247e247a043ed496e8 col: 13 value: 1555973007.86229 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: d74da502340adfb0494c0ac1938ae034 col: 3 value: 52426 is > the dmin (of 13226) 
+    ID: d74da502340adfb0494c0ac1938ae034 col: 3 value: 52426 is < the dmax (of 64754) 
+    col: 8 val: 176 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: d74da502340adfb0494c0ac1938ae034 col: 1 value: 3232266526 is < the max (of bin_2) 
+    ID: d74da502340adfb0494c0ac1938ae034 col: 3 value: 52426 is > the value (49175) 
+    ID: d74da502340adfb0494c0ac1938ae034 col: 13 value: 1555973007.86018 is > the epochtime (of 1555966971) 
+    ID: d74da502340adfb0494c0ac1938ae034 col: 13 value: 1555973007.86018 is < the year2030 (of 2030) 
+    col: 7 val: 26 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 26 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: f836664a9db44a96278bc6950bea332a col: 3 value: 51675 is > the dmin (of 13226) 
+    ID: f836664a9db44a96278bc6950bea332a col: 3 value: 51675 is < the dmax (of 64754) 
+    col: 8 val: 13723 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: f836664a9db44a96278bc6950bea332a col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: f836664a9db44a96278bc6950bea332a col: 3 value: 51675 is > the value (49175) 
+    ID: f836664a9db44a96278bc6950bea332a col: 13 value: 1555963460.48097 is < the year2030 (of 2030) 
+    col: 7 val: 21 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 21 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: ffa5290437698764e4a7b0300dd6f43c col: 3 value: 51673 is > the dmin (of 13226) 
+    ID: ffa5290437698764e4a7b0300dd6f43c col: 3 value: 51673 is < the dmax (of 64754) 
+    col: 8 val: 9510 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: ffa5290437698764e4a7b0300dd6f43c col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: ffa5290437698764e4a7b0300dd6f43c col: 3 value: 51673 is > the value (49175) 
+    ID: ffa5290437698764e4a7b0300dd6f43c col: 13 value: 1555963460.41108 is < the year2030 (of 2030) 
+    col: 7 val: 20 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 20 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: e3ea21e3aa60b3f82bb74b7858730913 col: 3 value: 51674 is > the dmin (of 13226) 
+    ID: e3ea21e3aa60b3f82bb74b7858730913 col: 3 value: 51674 is < the dmax (of 64754) 
+    col: 8 val: 9689 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: e3ea21e3aa60b3f82bb74b7858730913 col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: e3ea21e3aa60b3f82bb74b7858730913 col: 3 value: 51674 is > the value (49175) 
+    ID: e3ea21e3aa60b3f82bb74b7858730913 col: 13 value: 1555963460.41851 is < the year2030 (of 2030) 
+    col: 7 val: 19 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 19 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 9d162b90f586faa2dba4a2d8a42a60fb col: 3 value: 51671 is > the dmin (of 13226) 
+    ID: 9d162b90f586faa2dba4a2d8a42a60fb col: 3 value: 51671 is < the dmax (of 64754) 
+    col: 8 val: 4973 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 9d162b90f586faa2dba4a2d8a42a60fb col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 9d162b90f586faa2dba4a2d8a42a60fb col: 3 value: 51671 is > the value (49175) 
+    ID: 9d162b90f586faa2dba4a2d8a42a60fb col: 13 value: 1555963460.02747 is < the year2030 (of 2030) 
+    col: 7 val: 19 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 19 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 4c99955ff10b086723d55a69410f4fe1 col: 3 value: 51672 is > the dmin (of 13226) 
+    ID: 4c99955ff10b086723d55a69410f4fe1 col: 3 value: 51672 is < the dmax (of 64754) 
+    col: 8 val: 5199 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 4c99955ff10b086723d55a69410f4fe1 col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 4c99955ff10b086723d55a69410f4fe1 col: 3 value: 51672 is > the value (49175) 
+    ID: 4c99955ff10b086723d55a69410f4fe1 col: 13 value: 1555963460.03299 is < the year2030 (of 2030) 
+    col: 7 val: 244 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 244 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 9e89ce93a0c3206fcdfa8e3339401827 col: 3 value: 51677 is > the dmin (of 13226) 
+    ID: 9e89ce93a0c3206fcdfa8e3339401827 col: 3 value: 51677 is < the dmax (of 64754) 
+    col: 8 val: 230244 is in bin 1 between (65536 and 16777216) with 0.100 of the values. 
+    ID: 9e89ce93a0c3206fcdfa8e3339401827 col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 9e89ce93a0c3206fcdfa8e3339401827 col: 3 value: 51677 is > the value (49175) 
+    ID: 9e89ce93a0c3206fcdfa8e3339401827 col: 13 value: 1555963460.63827 is < the year2030 (of 2030) 
+    col: 7 val: 17554 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 17554 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: c83517ec6cd5b8c16f72152c58018ba9 col: 3 value: 51676 is > the dmin (of 13226) 
+    ID: c83517ec6cd5b8c16f72152c58018ba9 col: 3 value: 51676 is < the dmax (of 64754) 
+    col: 8 val: 17381305 is in bin 2 between (16777216 and 4294967296) with 0.010 of the values. 
+    ID: c83517ec6cd5b8c16f72152c58018ba9 col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: c83517ec6cd5b8c16f72152c58018ba9 col: 3 value: 51676 is > the value (49175) 
+    ID: c83517ec6cd5b8c16f72152c58018ba9 col: 13 value: 1555963460.63792 is < the year2030 (of 2030) 
+    col: 7 val: 52 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 52 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 9bcfac2f6bc0059c4696a91d7377ab26 col: 3 value: 51670 is > the dmin (of 13226) 
+    ID: 9bcfac2f6bc0059c4696a91d7377ab26 col: 3 value: 51670 is < the dmax (of 64754) 
+    col: 8 val: 23115 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 9bcfac2f6bc0059c4696a91d7377ab26 col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 9bcfac2f6bc0059c4696a91d7377ab26 col: 3 value: 51670 is > the value (49175) 
+    ID: 9bcfac2f6bc0059c4696a91d7377ab26 col: 13 value: 1555963459.90562 is < the year2030 (of 2030) 
+    col: 7 val: 3776 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 3776 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 5df96d1a81a629857c2d2ddde438d59d col: 3 value: 51693 is > the dmin (of 13226) 
+    ID: 5df96d1a81a629857c2d2ddde438d59d col: 3 value: 51693 is < the dmax (of 64754) 
+    col: 8 val: 3729590 is in bin 1 between (65536 and 16777216) with 0.100 of the values. 
+    ID: 5df96d1a81a629857c2d2ddde438d59d col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 5df96d1a81a629857c2d2ddde438d59d col: 3 value: 51693 is > the value (49175) 
+    ID: 5df96d1a81a629857c2d2ddde438d59d col: 13 value: 1555963684.10036 is < the year2030 (of 2030) 
+    col: 7 val: 345 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 345 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 252fd93dd355cf486373cf56b682fb60 col: 3 value: 51707 is > the dmin (of 13226) 
+    ID: 252fd93dd355cf486373cf56b682fb60 col: 3 value: 51707 is < the dmax (of 64754) 
+    col: 8 val: 329716 is in bin 1 between (65536 and 16777216) with 0.100 of the values. 
+    ID: 252fd93dd355cf486373cf56b682fb60 col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 252fd93dd355cf486373cf56b682fb60 col: 3 value: 51707 is > the value (49175) 
+    ID: 252fd93dd355cf486373cf56b682fb60 col: 13 value: 1555963873.73736 is < the year2030 (of 2030) 
+    col: 7 val: 55 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 55 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: b3acd03425908f6519698ddc6bdd0226 col: 3 value: 51709 is > the dmin (of 13226) 
+    ID: b3acd03425908f6519698ddc6bdd0226 col: 3 value: 51709 is < the dmax (of 64754) 
+    col: 8 val: 22346 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: b3acd03425908f6519698ddc6bdd0226 col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: b3acd03425908f6519698ddc6bdd0226 col: 3 value: 51709 is > the value (49175) 
+    ID: b3acd03425908f6519698ddc6bdd0226 col: 13 value: 1555963874.67968 is < the year2030 (of 2030) 
+    col: 7 val: 15604 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 15604 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 1177c75b3eb63805e35fbf7ed8835c06 col: 3 value: 51708 is > the dmin (of 13226) 
+    ID: 1177c75b3eb63805e35fbf7ed8835c06 col: 3 value: 51708 is < the dmax (of 64754) 
+    col: 8 val: 15483294 is in bin 1 between (65536 and 16777216) with 0.100 of the values. 
+    ID: 1177c75b3eb63805e35fbf7ed8835c06 col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 1177c75b3eb63805e35fbf7ed8835c06 col: 3 value: 51708 is > the value (49175) 
+    ID: 1177c75b3eb63805e35fbf7ed8835c06 col: 13 value: 1555963873.73764 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 8ad440fd91ad05e64d2ff920e4c30a7c col: 3 value: 58087 is > the dmin (of 13226) 
+    ID: 8ad440fd91ad05e64d2ff920e4c30a7c col: 3 value: 58087 is < the dmax (of 64754) 
+    col: 8 val: 315 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 8ad440fd91ad05e64d2ff920e4c30a7c col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 8ad440fd91ad05e64d2ff920e4c30a7c col: 3 value: 58087 is > the value (49175) 
+    ID: 8ad440fd91ad05e64d2ff920e4c30a7c col: 13 value: 1555963459.90479 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 113ca913e7738cebcbcd80f98f2fdb64 col: 3 value: 59818 is > the dmin (of 13226) 
+    ID: 113ca913e7738cebcbcd80f98f2fdb64 col: 3 value: 59818 is < the dmax (of 64754) 
+    col: 8 val: 219 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 113ca913e7738cebcbcd80f98f2fdb64 col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 113ca913e7738cebcbcd80f98f2fdb64 col: 3 value: 59818 is > the value (49175) 
+    ID: 113ca913e7738cebcbcd80f98f2fdb64 col: 13 value: 1555963460.02631 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 357e632e0d977075033d5d45681eb8fb col: 3 value: 62961 is > the dmin (of 13226) 
+    ID: 357e632e0d977075033d5d45681eb8fb col: 3 value: 62961 is < the dmax (of 64754) 
+    col: 8 val: 201 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 357e632e0d977075033d5d45681eb8fb col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 357e632e0d977075033d5d45681eb8fb col: 3 value: 62961 is > the value (49175) 
+    ID: 357e632e0d977075033d5d45681eb8fb col: 13 value: 1555963460.40943 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 922f16408111d408ef8997af4209eb44 col: 3 value: 55617 is > the dmin (of 13226) 
+    ID: 922f16408111d408ef8997af4209eb44 col: 3 value: 55617 is < the dmax (of 64754) 
+    col: 8 val: 201 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 922f16408111d408ef8997af4209eb44 col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 922f16408111d408ef8997af4209eb44 col: 3 value: 55617 is > the value (49175) 
+    ID: 922f16408111d408ef8997af4209eb44 col: 13 value: 1555963460.31094 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: e419e19620be300b9e9e1cff7fbf42d7 col: 3 value: 62444 is > the dmin (of 13226) 
+    ID: e419e19620be300b9e9e1cff7fbf42d7 col: 3 value: 62444 is < the dmax (of 64754) 
+    col: 8 val: 201 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: e419e19620be300b9e9e1cff7fbf42d7 col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: e419e19620be300b9e9e1cff7fbf42d7 col: 3 value: 62444 is > the value (49175) 
+    ID: e419e19620be300b9e9e1cff7fbf42d7 col: 13 value: 1555963460.55278 is < the year2030 (of 2030) 
+    col: 7 val: 6 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 6 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 552917862fc7e3beec1dcae739c0e594 col: 3 value: 62445 is > the dmin (of 13226) 
+    ID: 552917862fc7e3beec1dcae739c0e594 col: 3 value: 62445 is < the dmax (of 64754) 
+    col: 8 val: 6978 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 552917862fc7e3beec1dcae739c0e594 col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 552917862fc7e3beec1dcae739c0e594 col: 3 value: 62445 is > the value (49175) 
+    ID: 552917862fc7e3beec1dcae739c0e594 col: 13 value: 1555963460.63792 is < the year2030 (of 2030) 
+    col: 7 val: 10 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 10 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 79d16f6a9eedfb1d9b716c93f084e029 col: 3 value: 51679 is > the dmin (of 13226) 
+    ID: 79d16f6a9eedfb1d9b716c93f084e029 col: 3 value: 51679 is < the dmax (of 64754) 
+    col: 8 val: 1139 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 79d16f6a9eedfb1d9b716c93f084e029 col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 79d16f6a9eedfb1d9b716c93f084e029 col: 3 value: 51679 is > the value (49175) 
+    ID: 79d16f6a9eedfb1d9b716c93f084e029 col: 13 value: 1555963509.64576 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: c66e1a5fef84e4ea2269406ecd3447cc col: 3 value: 58827 is > the dmin (of 13226) 
+    ID: c66e1a5fef84e4ea2269406ecd3447cc col: 3 value: 58827 is < the dmax (of 64754) 
+    col: 8 val: 201 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: c66e1a5fef84e4ea2269406ecd3447cc col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: c66e1a5fef84e4ea2269406ecd3447cc col: 3 value: 58827 is > the value (49175) 
+    ID: c66e1a5fef84e4ea2269406ecd3447cc col: 13 value: 1555963684.02876 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 0e06508cf365033841607bbc89792dee col: 3 value: 51169 is > the dmin (of 13226) 
+    ID: 0e06508cf365033841607bbc89792dee col: 3 value: 51169 is < the dmax (of 64754) 
+    col: 8 val: 331 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 0e06508cf365033841607bbc89792dee col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 0e06508cf365033841607bbc89792dee col: 3 value: 51169 is > the value (49175) 
+    ID: 0e06508cf365033841607bbc89792dee col: 13 value: 1555963872.84707 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 151cf0c0252e46868f66247c44bb71ec col: 3 value: 50093 is > the dmin (of 13226) 
+    ID: 151cf0c0252e46868f66247c44bb71ec col: 3 value: 50093 is < the dmax (of 64754) 
+    col: 8 val: 219 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 151cf0c0252e46868f66247c44bb71ec col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 151cf0c0252e46868f66247c44bb71ec col: 3 value: 50093 is > the value (49175) 
+    ID: 151cf0c0252e46868f66247c44bb71ec col: 13 value: 1555963873.00926 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: dafd7beec17a075f0633bca7410eec86 col: 3 value: 50565 is > the dmin (of 13226) 
+    ID: dafd7beec17a075f0633bca7410eec86 col: 3 value: 50565 is < the dmax (of 64754) 
+    col: 8 val: 201 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: dafd7beec17a075f0633bca7410eec86 col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: dafd7beec17a075f0633bca7410eec86 col: 3 value: 50565 is > the value (49175) 
+    ID: dafd7beec17a075f0633bca7410eec86 col: 13 value: 1555963873.45257 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: c952b15827fd397414957b23f8d7f091 col: 3 value: 64424 is > the dmin (of 13226) 
+    ID: c952b15827fd397414957b23f8d7f091 col: 3 value: 64424 is < the dmax (of 64754) 
+    col: 8 val: 201 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: c952b15827fd397414957b23f8d7f091 col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: c952b15827fd397414957b23f8d7f091 col: 3 value: 64424 is > the value (49175) 
+    ID: c952b15827fd397414957b23f8d7f091 col: 13 value: 1555963873.33906 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 283f5b37c41d6ff90aa95cb83736ef63 col: 3 value: 60948 is > the dmin (of 13226) 
+    ID: 283f5b37c41d6ff90aa95cb83736ef63 col: 3 value: 60948 is < the dmax (of 64754) 
+    col: 8 val: 201 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 283f5b37c41d6ff90aa95cb83736ef63 col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 283f5b37c41d6ff90aa95cb83736ef63 col: 3 value: 60948 is > the value (49175) 
+    ID: 283f5b37c41d6ff90aa95cb83736ef63 col: 13 value: 1555963873.58105 is < the year2030 (of 2030) 
+    col: 7 val: 21 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 21 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: aec28ed6f931c7825e665a0037a8cace col: 3 value: 51706 is > the dmin (of 13226) 
+    ID: aec28ed6f931c7825e665a0037a8cace col: 3 value: 51706 is < the dmax (of 64754) 
+    col: 8 val: 13527 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: aec28ed6f931c7825e665a0037a8cace col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: aec28ed6f931c7825e665a0037a8cace col: 3 value: 51706 is > the value (49175) 
+    ID: aec28ed6f931c7825e665a0037a8cace col: 13 value: 1555963873.49579 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 672d5597a44bfbfaa5206ce9884d6910 col: 3 value: 49709 is > the dmin (of 13226) 
+    ID: 672d5597a44bfbfaa5206ce9884d6910 col: 3 value: 49709 is < the dmax (of 64754) 
+    col: 8 val: 179 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 672d5597a44bfbfaa5206ce9884d6910 col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 672d5597a44bfbfaa5206ce9884d6910 col: 3 value: 49709 is > the value (49175) 
+    ID: 672d5597a44bfbfaa5206ce9884d6910 col: 13 value: 1555963874.67867 is < the year2030 (of 2030) 
+    col: 7 val: 6 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 6 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 882b86818d229cba6dc118504c064831 col: 3 value: 60950 is > the dmin (of 13226) 
+    ID: 882b86818d229cba6dc118504c064831 col: 3 value: 60950 is < the dmax (of 64754) 
+    col: 8 val: 6978 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 882b86818d229cba6dc118504c064831 col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 882b86818d229cba6dc118504c064831 col: 3 value: 60950 is > the value (49175) 
+    ID: 882b86818d229cba6dc118504c064831 col: 13 value: 1555963874.48352 is < the year2030 (of 2030) 
+    col: 7 val: 13 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 13 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 53cfb6f492bab54e82c562bf5a811aef col: 3 value: 51704 is > the dmin (of 13226) 
+    ID: 53cfb6f492bab54e82c562bf5a811aef col: 3 value: 51704 is < the dmax (of 64754) 
+    col: 8 val: 4262 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 53cfb6f492bab54e82c562bf5a811aef col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 53cfb6f492bab54e82c562bf5a811aef col: 3 value: 51704 is > the value (49175) 
+    ID: 53cfb6f492bab54e82c562bf5a811aef col: 13 value: 1555963873.4536 is < the year2030 (of 2030) 
+    col: 7 val: 13 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 13 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 939805c8ba1a24879fc7cdf02122416b col: 3 value: 51705 is > the dmin (of 13226) 
+    ID: 939805c8ba1a24879fc7cdf02122416b col: 3 value: 51705 is < the dmax (of 64754) 
+    col: 8 val: 4049 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 939805c8ba1a24879fc7cdf02122416b col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 939805c8ba1a24879fc7cdf02122416b col: 3 value: 51705 is > the value (49175) 
+    ID: 939805c8ba1a24879fc7cdf02122416b col: 13 value: 1555963873.45373 is < the year2030 (of 2030) 
+    col: 7 val: 17 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 17 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 74465e2890a79abcc667629eea1ef4dd col: 3 value: 51702 is > the dmin (of 13226) 
+    ID: 74465e2890a79abcc667629eea1ef4dd col: 3 value: 51702 is < the dmax (of 64754) 
+    col: 8 val: 4884 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 74465e2890a79abcc667629eea1ef4dd col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 74465e2890a79abcc667629eea1ef4dd col: 3 value: 51702 is > the value (49175) 
+    ID: 74465e2890a79abcc667629eea1ef4dd col: 13 value: 1555963873.01031 is < the year2030 (of 2030) 
+    col: 7 val: 17 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 17 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 8751b1c9ae5d7bd789bb0ff7224d3c7e col: 3 value: 51703 is > the dmin (of 13226) 
+    ID: 8751b1c9ae5d7bd789bb0ff7224d3c7e col: 3 value: 51703 is < the dmax (of 64754) 
+    col: 8 val: 5105 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 8751b1c9ae5d7bd789bb0ff7224d3c7e col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 8751b1c9ae5d7bd789bb0ff7224d3c7e col: 3 value: 51703 is > the value (49175) 
+    ID: 8751b1c9ae5d7bd789bb0ff7224d3c7e col: 13 value: 1555963873.01054 is < the year2030 (of 2030) 
+    col: 7 val: 104 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 104 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 1722f70df985006f7c643392413209eb col: 3 value: 51701 is > the dmin (of 13226) 
+    ID: 1722f70df985006f7c643392413209eb col: 3 value: 51701 is < the dmax (of 64754) 
+    col: 8 val: 51392 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 1722f70df985006f7c643392413209eb col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 1722f70df985006f7c643392413209eb col: 3 value: 51701 is > the value (49175) 
+    ID: 1722f70df985006f7c643392413209eb col: 13 value: 1555963872.84846 is < the year2030 (of 2030) 
+    col: 7 val: 32 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 32 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 120af5c989df4192972c8def7b2f0b3b col: 3 value: 51770 is > the dmin (of 13226) 
+    ID: 120af5c989df4192972c8def7b2f0b3b col: 3 value: 51770 is < the dmax (of 64754) 
+    col: 8 val: 7571 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 120af5c989df4192972c8def7b2f0b3b col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 120af5c989df4192972c8def7b2f0b3b col: 3 value: 51770 is > the value (49175) 
+    ID: 120af5c989df4192972c8def7b2f0b3b col: 13 value: 1555965435.42226 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 8879cfceca3db0b7ba4111d54dd8604f col: 3 value: 61409 is > the dmin (of 13226) 
+    ID: 8879cfceca3db0b7ba4111d54dd8604f col: 3 value: 61409 is < the dmax (of 64754) 
+    col: 8 val: 331 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 8879cfceca3db0b7ba4111d54dd8604f col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 8879cfceca3db0b7ba4111d54dd8604f col: 3 value: 61409 is > the value (49175) 
+    ID: 8879cfceca3db0b7ba4111d54dd8604f col: 13 value: 1555965435.42115 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 9627ff4c31bd148f7ddb6cf8ef0ecbc2 col: 3 value: 53818 is > the dmin (of 13226) 
+    ID: 9627ff4c31bd148f7ddb6cf8ef0ecbc2 col: 3 value: 53818 is < the dmax (of 64754) 
+    col: 8 val: 331 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 9627ff4c31bd148f7ddb6cf8ef0ecbc2 col: 1 value: 3232266527 is < the max (of bin_2) 
+    ID: 9627ff4c31bd148f7ddb6cf8ef0ecbc2 col: 3 value: 53818 is > the value (49175) 
+    ID: 9627ff4c31bd148f7ddb6cf8ef0ecbc2 col: 13 value: 1555965500.73581 is < the year2030 (of 2030) 
+    col: 7 val: 1 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 1 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: a7f6530610b263a91bbf15177e968537 col: 3 value: 45270 is > the dmin (of 13226) 
+    ID: a7f6530610b263a91bbf15177e968537 col: 3 value: 45270 is < the dmax (of 64754) 
+    col: 8 val: 69 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: a7f6530610b263a91bbf15177e968537 col: 1 value: 3232266528 is < the max (of bin_2) 
+    ID: a7f6530610b263a91bbf15177e968537 col: 3 value: 45270 is < the value (49175) 
+    ID: a7f6530610b263a91bbf15177e968537 col: 13 value: 1555954504.11419 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 1cb0bfcef409b6114d024851266ae95a col: 3 value: 42988 is > the dmin (of 13226) 
+    ID: 1cb0bfcef409b6114d024851266ae95a col: 3 value: 42988 is < the dmax (of 64754) 
+    col: 8 val: 331 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 1cb0bfcef409b6114d024851266ae95a col: 1 value: 3232266528 is < the max (of bin_2) 
+    ID: 1cb0bfcef409b6114d024851266ae95a col: 3 value: 42988 is < the value (49175) 
+    ID: 1cb0bfcef409b6114d024851266ae95a col: 13 value: 1555954504.47715 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: fca682402860e97a01a02daf2a0a62a3 col: 3 value: 52377 is > the dmin (of 13226) 
+    ID: fca682402860e97a01a02daf2a0a62a3 col: 3 value: 52377 is < the dmax (of 64754) 
+    col: 8 val: 332 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: fca682402860e97a01a02daf2a0a62a3 col: 1 value: 3232266528 is < the max (of bin_2) 
+    ID: fca682402860e97a01a02daf2a0a62a3 col: 3 value: 52377 is > the value (49175) 
+    ID: fca682402860e97a01a02daf2a0a62a3 col: 13 value: 1555954505.20377 is < the year2030 (of 2030) 
+    col: 7 val: 5 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 5 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 69f3b1cf7a4d193c48e7e6317470fcd4 col: 3 value: 60384 is > the dmin (of 13226) 
+    ID: 69f3b1cf7a4d193c48e7e6317470fcd4 col: 3 value: 60384 is < the dmax (of 64754) 
+    col: 8 val: 5600 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 69f3b1cf7a4d193c48e7e6317470fcd4 col: 1 value: 3232266528 is < the max (of bin_2) 
+    ID: 69f3b1cf7a4d193c48e7e6317470fcd4 col: 3 value: 60384 is > the value (49175) 
+    ID: 69f3b1cf7a4d193c48e7e6317470fcd4 col: 13 value: 1555954504.48635 is < the year2030 (of 2030) 
+    col: 7 val: 6 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 6 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: b0a0091bc5255d15e2a0fb47eac1c422 col: 3 value: 38175 is > the dmin (of 13226) 
+    ID: b0a0091bc5255d15e2a0fb47eac1c422 col: 3 value: 38175 is < the dmax (of 64754) 
+    col: 8 val: 6978 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: b0a0091bc5255d15e2a0fb47eac1c422 col: 1 value: 3232266528 is < the max (of bin_2) 
+    ID: b0a0091bc5255d15e2a0fb47eac1c422 col: 3 value: 38175 is < the value (49175) 
+    ID: b0a0091bc5255d15e2a0fb47eac1c422 col: 13 value: 1555954505.21119 is < the year2030 (of 2030) 
+    col: 7 val: 34 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 34 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 3f65c259ba35fdd404d2b75d418d50b9 col: 3 value: 35222 is > the dmin (of 13226) 
+    ID: 3f65c259ba35fdd404d2b75d418d50b9 col: 3 value: 35222 is < the dmax (of 64754) 
+    col: 8 val: 7336 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 3f65c259ba35fdd404d2b75d418d50b9 col: 1 value: 3232266528 is < the max (of bin_2) 
+    ID: 3f65c259ba35fdd404d2b75d418d50b9 col: 3 value: 35222 is < the value (49175) 
+    ID: 3f65c259ba35fdd404d2b75d418d50b9 col: 13 value: 1555954504.47715 is < the year2030 (of 2030) 
+    col: 7 val: 32 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 32 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: f83a8b2388c692b070c5d2d98bff348d col: 3 value: 38615 is > the dmin (of 13226) 
+    ID: f83a8b2388c692b070c5d2d98bff348d col: 3 value: 38615 is < the dmax (of 64754) 
+    col: 8 val: 6365 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: f83a8b2388c692b070c5d2d98bff348d col: 1 value: 3232266528 is < the max (of bin_2) 
+    ID: f83a8b2388c692b070c5d2d98bff348d col: 3 value: 38615 is < the value (49175) 
+    ID: f83a8b2388c692b070c5d2d98bff348d col: 13 value: 1555954504.48723 is < the year2030 (of 2030) 
+    col: 7 val: 32 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 32 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 1ab2bc9f56857da6bed4480d4bd2a9a8 col: 3 value: 33273 is > the dmin (of 13226) 
+    ID: 1ab2bc9f56857da6bed4480d4bd2a9a8 col: 3 value: 33273 is < the dmax (of 64754) 
+    col: 8 val: 7961 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 1ab2bc9f56857da6bed4480d4bd2a9a8 col: 1 value: 3232266528 is < the max (of bin_2) 
+    ID: 1ab2bc9f56857da6bed4480d4bd2a9a8 col: 3 value: 33273 is < the value (49175) 
+    ID: 1ab2bc9f56857da6bed4480d4bd2a9a8 col: 13 value: 1555954505.21156 is < the year2030 (of 2030) 
+    col: 7 val: 59 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 59 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: aff694bd5b69c4e3c4a8a2c3c00361e7 col: 3 value: 53147 is > the dmin (of 13226) 
+    ID: aff694bd5b69c4e3c4a8a2c3c00361e7 col: 3 value: 53147 is < the dmax (of 64754) 
+    col: 8 val: 14048 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: aff694bd5b69c4e3c4a8a2c3c00361e7 col: 1 value: 3232266528 is < the max (of bin_2) 
+    ID: aff694bd5b69c4e3c4a8a2c3c00361e7 col: 3 value: 53147 is > the value (49175) 
+    ID: aff694bd5b69c4e3c4a8a2c3c00361e7 col: 13 value: 1555972194.24844 is > the epochtime (of 1555966971) 
+    ID: aff694bd5b69c4e3c4a8a2c3c00361e7 col: 13 value: 1555972194.24844 is < the year2030 (of 2030) 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 2 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: c644a114ee2e98530e9990b0246343a2 col: 3 value: 23255 is > the dmin (of 13226) 
+    ID: c644a114ee2e98530e9990b0246343a2 col: 3 value: 23255 is < the dmax (of 64754) 
+    col: 8 val: 316 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: c644a114ee2e98530e9990b0246343a2 col: 1 value: 3232266528 is < the max (of bin_2) 
+    ID: c644a114ee2e98530e9990b0246343a2 col: 3 value: 23255 is < the value (49175) 
+    ID: c644a114ee2e98530e9990b0246343a2 col: 13 value: 1555972194.03396 is > the epochtime (of 1555966971) 
+    ID: c644a114ee2e98530e9990b0246343a2 col: 13 value: 1555972194.03396 is < the year2030 (of 2030) 
+    col: 7 val: 1 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 1 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 31c34718c49bd86527badc9d5afc31ee col: 3 value: 13226 is < the dmax (of 64754) 
+    col: 8 val: 57 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 31c34718c49bd86527badc9d5afc31ee col: 1 value: 3232266528 is < the max (of bin_2) 
+    ID: 31c34718c49bd86527badc9d5afc31ee col: 3 value: 13226 is < the value (49175) 
+    ID: 31c34718c49bd86527badc9d5afc31ee col: 13 value: 1555972194.24814 is > the epochtime (of 1555966971) 
+    ID: 31c34718c49bd86527badc9d5afc31ee col: 13 value: 1555972194.24814 is < the year2030 (of 2030) 
+    col: 7 val: 4 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 4 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 9ae92d0252064e85f3ba3dc059368d79 col: 3 value: 45072 is > the dmin (of 13226) 
+    ID: 9ae92d0252064e85f3ba3dc059368d79 col: 3 value: 45072 is < the dmax (of 64754) 
+    col: 8 val: 5512 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 9ae92d0252064e85f3ba3dc059368d79 col: 1 value: 3232266528 is < the max (of bin_2) 
+    ID: 9ae92d0252064e85f3ba3dc059368d79 col: 3 value: 45072 is < the value (49175) 
+    ID: 9ae92d0252064e85f3ba3dc059368d79 col: 13 value: 1555972195.18089 is > the epochtime (of 1555966971) 
+    ID: 9ae92d0252064e85f3ba3dc059368d79 col: 13 value: 1555972195.18089 is < the year2030 (of 2030) 
+    col: 7 val: 1 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 1 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 1408119e3c5162f82a9cab2ccf6aa16f col: 3 value: 55199 is > the dmin (of 13226) 
+    ID: 1408119e3c5162f82a9cab2ccf6aa16f col: 3 value: 55199 is < the dmax (of 64754) 
+    col: 8 val: 57 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 1408119e3c5162f82a9cab2ccf6aa16f col: 1 value: 3232266530 is < the max (of bin_2) 
+    ID: 1408119e3c5162f82a9cab2ccf6aa16f col: 3 value: 55199 is > the value (49175) 
+    ID: 1408119e3c5162f82a9cab2ccf6aa16f col: 13 value: 1555966729.57501 is < the year2030 (of 2030) 
+    col: 7 val: 27 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 27 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: ee68e032a71c58341c2c36ff95bac6d1 col: 3 value: 50218 is > the dmin (of 13226) 
+    ID: ee68e032a71c58341c2c36ff95bac6d1 col: 3 value: 50218 is < the dmax (of 64754) 
+    col: 8 val: 6665 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: ee68e032a71c58341c2c36ff95bac6d1 col: 3 value: 50218 is > the value (49175) 
+    ID: ee68e032a71c58341c2c36ff95bac6d1 col: 13 value: 1555973156.88677 is > the epochtime (of 1555966971) 
+    ID: ee68e032a71c58341c2c36ff95bac6d1 col: 13 value: 1555973156.88677 is < the year2030 (of 2030) 
+    col: 7 val: 41 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 41 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: 4ac36306d53ad9bc8fd29a6090dbab0d col: 3 value: 50030 is > the dmin (of 13226) 
+    ID: 4ac36306d53ad9bc8fd29a6090dbab0d col: 3 value: 50030 is < the dmax (of 64754) 
+    col: 8 val: 19589 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: 4ac36306d53ad9bc8fd29a6090dbab0d col: 3 value: 50030 is > the value (49175) 
+    ID: 4ac36306d53ad9bc8fd29a6090dbab0d col: 13 value: 1555973114.1335 is > the epochtime (of 1555966971) 
+    ID: 4ac36306d53ad9bc8fd29a6090dbab0d col: 13 value: 1555973114.1335 is < the year2030 (of 2030) 
+    col: 7 val: 67 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    col: 7 val: 67 is in bin 0 between (0 and 65536) with 0.990 of the values. 
+    ID: f472ef5b7db4a10c24b3eb7ca02f7ea5 col: 3 value: 50021 is > the dmin (of 13226) 
+    ID: f472ef5b7db4a10c24b3eb7ca02f7ea5 col: 3 value: 50021 is < the dmax (of 64754) 
+    col: 8 val: 34486 is in bin 0 between (0 and 65536) with 0.880 of the values. 
+    ID: f472ef5b7db4a10c24b3eb7ca02f7ea5 col: 3 value: 50021 is > the value (49175) 
+    ID: f472ef5b7db4a10c24b3eb7ca02f7ea5 col: 13 value: 1555973109.82183 is > the epochtime (of 1555966971) 
+    ID: f472ef5b7db4a10c24b3eb7ca02f7ea5 col: 13 value: 1555973109.82183 is < the year2030 (of 2030) 

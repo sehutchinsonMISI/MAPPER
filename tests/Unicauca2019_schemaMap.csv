@@ -1,0 +1,54 @@
+# Unicauca2019_stats_ranges.csv,for,Unicauca-dataset-April-June-2019-Network-flows.csv,,,,,
+# 20210824,,Expected,Expected,,Expected,Expected,Expected
+# Source field name,type,min,max, Conversion field name, type, min, max
+%sFieldName,sDataType,sMinVal,sMaxVal,cFieldName,cDataType,cMinVal,cMaxVal
+flow_key,string,9e57d9e7e404c842a59b9a4023a22695,9e57d9e7e404c842a59b9a4023a22695,event.id,string,9e57d9e7e404c842a59b9a4023a22695,9e57d9e7e404c842a59b9a4023a22695
+src_ip_numeric,int,0,4294967295,source.ip.numeric,long,0,4294967295
+src_ip,Ipstring,0.0.0.0,255.255.255.255,source.ip,Ipstring,0.0.0.0,255.255.255.255
+src_port,Portnum,0,65535,source.port,int,0,65535
+dst_ip,Ipstring,0.0.0.0,255.255.255.255,destination.ip,Ipstring,0.0.0.0,255.255.255.255
+dst_port,Portnum,0,65535,destination.port,int,0,65535
+proto,int,0,255,network.iana_number,int,0,255
+pktTotalCount,int,0,,network.packets,long,0,
+octetTotalCount,int,0,,network.bytes,long,0,
+min_ps,int,0,,network.packets.size.min,int,0,
+max_ps,int,0,,network.packets.size.max,int,0,
+avg_ps,float,0,,network.packets.size.avg,float,0,
+std_dev_ps,float,0,,network.packets.size.std_dev,float,0,
+flowStart,unix_fractional,0,,@timestamp,UNIX_MS,,
+flowEnd,unix_fractional,0,,event.end,UNIX_MS,,
+flowDuration,float,0,,event.duration,float,0,
+min_piat,float,0,,network.packets.iat.min,long,0,
+max_piat,float,0,,network.packets.iat.max,long,0,
+avg_piat,float,0,,network.packets.iat.avg,float,0,
+std_dev_piat,float,0,,network.packets.iat.std_dev,float,0,
+f_pktTotalCount,int,0,,source.packets,long,0,
+f_octetTotalCount,int,0,,source.bytes,long,0,
+f_min_ps,int,0,,source.packets.size.min,long,0,
+f_max_ps,int,0,,source.packets.size.max,long,0,
+f_avg_ps,float,0,,source.packets.size.avg,float,0,
+f_std_dev_ps,float,0,,source.packets.std_dev,float,0,
+f_flowStart,unix_fractional,0,,source.event.start,UTC,,
+f_flowEnd,unix_fractional,0,,source.event.end,UTC,,
+f_flowDuration,float,0,,source.event.duration,float,0,
+f_min_piat,float,0,,source.packets.iat.min,long,0,
+f_max_piat,float,0,,source.packets.iat.max,long,0,
+f_avg_piat,float,0,,source.packets.iat.avg,float,0,
+f_std_dev_piat,float,0,,source.packets.iat.std_dev,float,0,
+b_pktTotalCount,int,0,,destination.packets,long,0,
+b_octetTotalCount,int,0,,destination.bytes,long,0,
+b_min_ps,int,0,,destination.packets.size.min,long,0,
+b_max_ps,int,0,,destination.packets.size.max,long,0,
+b_avg_ps,float,0,,destination.packets.size.avg,float,0,
+b_std_dev_ps,float,0,,destination.packets.std_dev,float,0,
+b_flowStart,unix_fractional,0,,destination.event.start,UTC,,
+b_flowEnd,unix_fractional,0,,destination.event.end,UTC,,
+b_flowDuration,float,0,,destination.event.duration,float,0,
+b_min_piat,float,0,,destination.packets.iat.min,long,0,
+b_max_piat,float,0,,destination.packets.iat.max,long,0,
+b_avg_piat,float,0,,destination.packets.iat.avg,float,0,
+b_std_dev_piat,float,0,,destination.packets.iat.std_dev,float,0,
+flowEndReason,int,0,,event.action,int,0,
+category,string,“ “,,event.category,string,,
+application_protocol,string,“ “,,network.protocol,int,,
+web_service,string,“ “,,network.application,string,,
